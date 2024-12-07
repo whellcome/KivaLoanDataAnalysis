@@ -64,7 +64,7 @@ This project is divided into two main components:
 - **Programming**: Python  
 - **Libraries**: Pandas, Matplotlib, Seaborn, Plotly, Scikit-learn  
 - **Environment**: Jupyter Notebooks  
-- **Data Source**: [Kaggle Dataset - Kiva Loans](https://www.kaggle.com/mirbektoktogaraev/kiva-loan-dataset)
+- **Data Source**: [Kaggle Dataset - Kiva Loans](https://www.kaggle.com/datasets/kiva/data-science-for-good-kiva-crowdfunding)
 
 ---
 
@@ -72,8 +72,8 @@ This project is divided into two main components:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/Kiva-Loan-Analysis.git
-   cd Kiva-Loan-Analysis
+   git clone git@github.com:whellcome/KivaLoanDataAnalysis.git
+   cd KivaLoanDataAnalysis
    ```
 
 2. Install dependencies:
