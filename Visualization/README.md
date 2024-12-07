@@ -40,7 +40,9 @@ Developed using **Dash**, the application enables users to:
 - **Loan Trends by Categories**: Bar charts and line graphs provide insights into loan amounts and investor confidence.
 - **Sector-Activity Interplay**: Scatter plots showcase relationships between sectors, activities, and funded ratings.
 
-### Sample Screenshot
+### Sample Screenshots
+![Large loan amounts are less supported by investors](screen0.png)
+
 ![Kiva Dashboard](dashscreen.png)
 
 ---
@@ -73,7 +75,7 @@ Developed using **Dash**, the application enables users to:
    ```bash
    pip install -r Visualization/requirements.txt
    ```
-3. Run the Dash ib the Jupyter Notebook:
+3. Run the Dash in the Jupyter Notebook:
    ```bash
    `Visualization/Kiva_Analysis_02_EDA.ipynb`
    ```
