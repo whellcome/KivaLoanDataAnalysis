@@ -22,6 +22,12 @@ This data preparation process ensures that the dataset is clean, enriched, and s
 
 One of the key innovations in this notebook is the custom **`outlers_get_borders`** algorithm, designed to identify and exclude data outliers iteratively. 
 
+### Sample Screenshots
+![Befor Outlier Handling](boxplot3.png)
+
+![After](boxplot4.png)
+
+
 ### **Algorithm Features**
 - Uses **quantile-based boundaries** to progressively refine the dataset.
 - Recursively narrows the bounds to ensure outliers are effectively removed without over-filtering valuable data.
