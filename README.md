@@ -51,11 +51,13 @@ This project is divided into two main components:
 - Advanced cleaning methods to handle missing and inconsistent data.
 - Stratification of data for improved analytical accuracy.
 - Feature engineering for richer insights.
+![Outlier Handling](Data-Preparation/boxplot4.png)
 
 ### 📊 Data Visualization
 - Interactive dashboards for deep dives into data patterns.
 - Geospatial and temporal visualizations for global insights.
 - Statistical comparisons across demographics and loan categories.
+![Large loan amounts are less supported by investors](Visualization/screen0.png)
 
 ---
 
